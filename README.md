@@ -54,4 +54,4 @@ Este proyecto consiste en un sistema de información web para una empresa de ase
 
 ## URL del Proyecto
 
-https://github.com/cdgaliachi/Sprint-Modulo-6.git
+(https://github.com/lorelero/SPRINTFINAL)
